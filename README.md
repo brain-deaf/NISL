@@ -28,7 +28,7 @@ Tasks that are being considered for implementation include the following:
 Consider the following example which demonstrates how NISL trivializes the task of deleting a registry key's value.
 
 reg_key_delete_value(r"HKEY_CURRENT_USER\SOFTWARE\Native Instruments\Massive", r"AB2 AudioDevice")
-(for implementation of this function, see reg.py in the repo)
+ (for implementation of this function, see reg.py in the repo)
 
 
 Distribution
