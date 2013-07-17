@@ -31,9 +31,6 @@ Consider the following example which demonstrates how NISL trivializes the task 
 reg_key_delete_value(r"HKEY_CURRENT_USER\SOFTWARE\Native Instruments\Massive", r"AB2 AudioDevice")
 
 
-
-Distribution
-
 There are two main options for implementing this library in the NI Support Tool: 
 
 The first is statically linking Python to the Support Tool application itself. This configuration requires zero 
