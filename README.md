@@ -40,3 +40,5 @@ The second option is dynamically linking a Python interpreter with the applicati
 dependencies which would need to be included inside the application folder; however, compiling such an application
 would be simpler.
 
+Check out hello_world.cpp and hello_world.py to see how to embed a python function into a C++ application.
+
