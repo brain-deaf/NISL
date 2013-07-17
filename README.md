@@ -1,7 +1,7 @@
 NISL
 ====
 
-a Python3.3 library
+a Python library
 
 NISL(working title), or, the Native Instruments Support Library is a library for Python that is aimed at trivializing several
 support tasks through the use of Python functions. This library aims to be light-weight, only incorporating a small
